@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **khushisharma9305@gmail.com**
 
-<h3 padding-top="40" align="left">Connect with me:</h3>
+<h3 padding="40" align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/umesh-sharma-438118317/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umesh (frontend developer) sharma" height="30" width="40" /></a>
 </p>
